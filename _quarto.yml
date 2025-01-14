@@ -11,8 +11,12 @@ website:
       - href: index.qmd
         text: Home
       - href: otherprojects.qmd
+        text: Other Projects
       - href: Hobbies.qmd
+        text: Hobbies
       - href: reflection.qmd
+        text: Reflection
+
 format:
   html:
     theme: cosmo
