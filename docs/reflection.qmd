@@ -3,7 +3,7 @@ title: "Reflection"
 format: html
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6bPN0JyGfA4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6bPN0JyGfA4" frameborder="0" allowfullscreen></iframe>
 
 <h1>“Reflection on the use of GenAI 𓂃🖊”</h1>
 <hr>
