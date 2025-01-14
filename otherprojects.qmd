@@ -1,0 +1,47 @@
+---
+title: "Other Projects"
+---
+<br>
+
+# My Projects
+
+## Data Analytics - HR System (Land Transport Authority) 📊🗂️🗃️
+<h3>Tableau:</h3> 
+- Configuring and modifying data filtration features within existing Tableau dashboards.
+<br>
+<br>
+- Learning how to clean and prepare datasets before loading them onto Tableau Server.
+<br>
+<br>
+- Building dashboards from scratch based on requested features.
+<br>
+<br>
+- Modifying and migrating past and present employee data, including training programs, proficiencies, and matching staff lists.
+<br>
+<br>
+- Identifying areas of improvement in existing dashboards to ensure consistency in data quality and appearance.
+<br>
+<br>
+- [Completion Certificate](https://media.licdn.com/dms/image/v2/D562DAQH_pS_BDx-rUg/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1725867645265?e=1737435600&v=beta&t=aJwvVhx29gHNnx4Jbn2iAF3KwyN1N9OBchJhhl-n3sc){target="_blank"}
+
+## Front End Web Developer (Impossible Marketing) 🌐🕸💻
+<h3>WordPress:</h3> 
+- Content Management Systems (CMS): Specialized in developing websites for clients' specific content management needs. Using systems such as WordPress.
+<br>
+<br>
+- SEO Integration: Collaborated with SEO experts within the agency to improve on-page SEO for digital marketing, optimizing tags, speed, and site performance. Higher traffic was observed among a dozen websites with an increase of 15-20% in website traffic.
+<br>
+<br>
+- Client Interaction: Interacted closely with clients to gather project requirements and offer technical insights, enhancing further communication and client-facing skills towards most future projects.
+<br>
+<br>
+-[Websites I've done under this internship]:
+<br>
+[ETAG RFID](https://etagrfid.com){target="_blank"}
+<br>
+[Bites and Scratches](https://bitesandscratches.com){target="_blank"}
+<br>
+[TVB Anywhere](https://www.tvbanywhere.com){target="_blank"}
+<br>
+[Flagship Games](https://flagshipgames.sg){target="_blank"}
+---

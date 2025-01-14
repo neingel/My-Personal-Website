@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "NL"
+  favicon: https://cdn-icons-png.flaticon.com/512/235/235349.png
   navbar:
+    logo: https://cdn-icons-png.flaticon.com/512/235/235349.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: otherprojects.qmd
+      - href: Hobbies.qmd
+      - href: reflection.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    toc-depth: 3
+    toc-location: left

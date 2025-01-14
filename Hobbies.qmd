@@ -1,0 +1,28 @@
+---
+title: "Hobbies"
+format: html
+---
+
+# My Hobbies
+
+## TCGs (Trading Card Games) 🎴🃏️
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+![](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/458284222_7693506324083310_4191703775855618337_n.jpg?stp=cp6_dst-jpg_s2048x2048_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=bQxM5noLIS4Q7kNvgHvZBUr&_nc_zt=23&_nc_ht=scontent-sin6-4.xx&_nc_gid=AIl-Khg6lyU8UsXvyKK8tsF&oh=00_AYBslSHnPN2zQdMZM9UDQbIajLr61paTirXxEwD4qCTt4w&oe=678BA10D){width=50%}
+![](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/471024733_8396376103796325_3230912767090931855_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CYHfSI7OKrUQ7kNvgEg3tLC&_nc_zt=23&_nc_ht=scontent-sin6-4.xx&_nc_gid=APFpbA2lLLDup4feTYoKtut&oh=00_AYAksyxi58m_yU-JHyaXT_HyP4ru0hfPGaEd3-pQ96LCDA&oe=678BB686){width=50%}
+![](https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/471159071_8396371970463405_1029723555840187877_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0-b3vdM-k1kQ7kNvgFm_AhY&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=APFpbA2lLLDup4feTYoKtut&oh=00_AYDJY6n_YOiuSQB1Tqlx5wj9lQfmwhzoNBbjrNkpw4z7zg&oe=678BC8F7){width=50%}
+![](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/458412232_7693467547420521_7992492657370974233_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dHlcPeOjaNQQ7kNvgEqRnMP&_nc_zt=23&_nc_ht=scontent-sin6-4.xx&_nc_gid=AIl-Khg6lyU8UsXvyKK8tsF&oh=00_AYANvKUI9VtzU6gQhQtfTmxRh9kbXQcVfkk1E0s5TpY2Fw&oe=678BC3C4){width=50%}
+</div>
+<br>
+- Pokemon
+- Magic the Gathering
+
+A childhood hobby of mine, I collect, buy/sell/trade very often.
+
+## Investing 💵📊📈
+![](https://academy.education.investing.com/wp-content/uploads/2022/03/how-to-invest-in-stocks-scaled.jpg){width=50%}
+
+<br>
+- Aim to be more financially independent
+<br>
+- Most of my funds are in ETFs and blue chip stocks

@@ -1,11 +1,17 @@
 ---
-title: "temp_website"
+title: "Landing Page"
 ---
 
-This is a Quarto website.
+Welcome to my personal website!
+<br>
+<br>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Me, but that's not my cat 🐈](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/378139846_6163648577069100_7990537947924695841_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=aSz8V1CUHQYQ7kNvgH0n1Oo&_nc_zt=23&_nc_ht=scontent-sin6-4.xx&_nc_gid=A2jcDmdy2Cke_9x9lBugb1G&oh=00_AYDZO9a6AIJDFoM_p667LNLLepPmgxXAKcifPCDBHFOiwg&oe=678BA747){.inline-left width=50%}
 
-```{r}
-1 + 1
-```
+## About Me
+Dedicated and highly motivated student eager to engage tech expertise towards the Fintech sector. Open for Summer 2025 Internships! (May - August)
+<br>
+<br>
+- **Role**: [Fintech Student, Singapore Institute of Technology]
+<br>
+- **Location**: [Singapore]
