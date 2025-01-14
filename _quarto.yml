@@ -13,7 +13,6 @@ website:
       - href: otherprojects.qmd
       - href: Hobbies.qmd
       - href: reflection.qmd
-
 format:
   html:
     theme: cosmo
