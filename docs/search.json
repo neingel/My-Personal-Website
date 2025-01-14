@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Landing Page",
-    "section": "",
-    "text": "Welcome to my personal website!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "otherprojects.html#data-analytics---hr-system-land-transport-authority",
+    "href": "otherprojects.html#data-analytics---hr-system-land-transport-authority",
     "title": "Other Projects",
-    "section": "",
-    "text": "About this site:  Other Projects that I’ve worked on before\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "otherprojects.html",
-    "href": "otherprojects.html",
-    "title": "Other Projects",
-    "section": "",
-    "text": "Other Projects that I’ve worked on before:"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Landing Page",
-    "section": "About Me",
-    "text": "About Me\nDedicated and highly motivated student eager to engage tech expertise towards the Fintech sector. Open for Summer 2025 Internships! (May - August)   - Role: [Fintech Student, Singapore Institute of Technology]  - Location: [Singapore]"
-  },
-  {
-    "objectID": "reflection.html",
-    "href": "reflection.html",
-    "title": "Reflection",
-    "section": "",
-    "text": "“Reflection on the use of GenAI 𓂃🖊”\n\n\nThe integration of Generative AI (GenAI) into everyday tasks has been transformative, offering unparalleled efficiency and creative possibilities. It serves as a powerful tool for generating ideas, refining complex concepts, and automating repetitive tasks. Through natural language interactions, GenAI simplifies problem-solving, making it accessible across diverse fields, from education to business. However, its use also raises important considerations, such as ethical implications, potential over-reliance, and the need for critical evaluation of outputs to ensure accuracy and reliability. While GenAI is a remarkable technological advancement, it is most effective when paired with human oversight, creativity, and judgment. Reflecting on its impact, it is evident that responsible adoption of GenAI can enhance productivity and innovation while emphasizing the importance of maintaining human expertise as a guiding force."
-  },
-  {
-    "objectID": "otherprojects.html#data-analysis-land-transport-authority",
-    "href": "otherprojects.html#data-analysis-land-transport-authority",
-    "title": "Other Projects",
-    "section": "Data Analysis (Land Transport Authority)",
-    "text": "Data Analysis (Land Transport Authority)\n\nTableau:\n\n\nConfiguring and modifying data filtration features within existing Tableau dashboards.  \nLearning how to clean and prepare datasets before loading them onto Tableau Server.  \nBuilding dashboards from scratch based on requested features.  \nModifying and migrating past and present employee data, including training programs, proficiencies, and matching staff lists.  \nIdentifying areas of improvement in existing dashboards to ensure consistency in data quality and appearance.  \nCompletion Certificate"
-  },
-  {
-    "objectID": "otherprojects.html#web-development",
-    "href": "otherprojects.html#web-development",
-    "title": "Other Projects",
-    "section": "Web Development",
-    "text": "Web Development\n\nProject 3: A brief description.\nProject 4: A brief description."
+    "section": "Data Analytics - HR System (Land Transport Authority) 📊🗂️🗃️",
+    "text": "Data Analytics - HR System (Land Transport Authority) 📊🗂️🗃️\n\nTableau:\n\n\nConfiguring and modifying data filtration features within existing Tableau dashboards.  \nLearning how to clean and prepare datasets before loading them onto Tableau Server.  \nBuilding dashboards from scratch based on requested features.  \nModifying and migrating past and present employee data, including training programs, proficiencies, and matching staff lists.  \nIdentifying areas of improvement in existing dashboards to ensure consistency in data quality and appearance.  \nCompletion Certificate"
   },
   {
     "objectID": "otherprojects.html#front-end-web-developer-impossible-marketing",
@@ -54,13 +12,6 @@
     "title": "Other Projects",
     "section": "Front End Web Developer (Impossible Marketing) 🌐🕸💻",
     "text": "Front End Web Developer (Impossible Marketing) 🌐🕸💻\n\nWordPress:\n\n\nContent Management Systems (CMS): Specialized in developing websites for clients’ specific content management needs. Using systems such as WordPress.  \nSEO Integration: Collaborated with SEO experts within the agency to improve on-page SEO for digital marketing, optimizing tags, speed, and site performance. Higher traffic was observed among a dozen websites with an increase of 15-20% in website traffic.  \nClient Interaction: Interacted closely with clients to gather project requirements and offer technical insights, enhancing further communication and client-facing skills towards most future projects.   -[Websites I’ve done under this internship]:  ETAG RFID  Bites and Scratches  TVB Anywhere  Flagship Games"
-  },
-  {
-    "objectID": "otherprojects.html#data-analytics---hr-system-land-transport-authority",
-    "href": "otherprojects.html#data-analytics---hr-system-land-transport-authority",
-    "title": "Other Projects",
-    "section": "Data Analytics - HR System (Land Transport Authority) 📊🗂️🗃️",
-    "text": "Data Analytics - HR System (Land Transport Authority) 📊🗂️🗃️\n\nTableau:\n\n\nConfiguring and modifying data filtration features within existing Tableau dashboards.  \nLearning how to clean and prepare datasets before loading them onto Tableau Server.  \nBuilding dashboards from scratch based on requested features.  \nModifying and migrating past and present employee data, including training programs, proficiencies, and matching staff lists.  \nIdentifying areas of improvement in existing dashboards to ensure consistency in data quality and appearance.  \nCompletion Certificate"
   },
   {
     "objectID": "Hobbies.html",
@@ -82,5 +33,26 @@
     "title": "Hobbies",
     "section": "",
     "text": "- Aim to be more financially independent  - Most of my funds are in ETFs and blue chip stocks"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "“Reflection on the use of GenAI 𓂃🖊”\n\n\nThe integration of Generative AI (GenAI) into everyday tasks has been transformative, offering unparalleled efficiency and creative possibilities. It serves as a powerful tool for generating ideas, refining complex concepts, and automating repetitive tasks. Through natural language interactions, GenAI simplifies problem-solving, making it accessible across diverse fields, from education to business. However, its use also raises important considerations, such as ethical implications, potential over-reliance, and the need for critical evaluation of outputs to ensure accuracy and reliability. While GenAI is a remarkable technological advancement, it is most effective when paired with human oversight, creativity, and judgment. Reflecting on its impact, it is evident that responsible adoption of GenAI can enhance productivity and innovation while emphasizing the importance of maintaining human expertise as a guiding force."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Landing Page",
+    "section": "",
+    "text": "Welcome to my personal website!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Landing Page",
+    "section": "About Me",
+    "text": "About Me\nDedicated and highly motivated student eager to engage tech expertise towards the Fintech sector. Open for Summer 2025 Internships! (May - August)   - Role: [Fintech Student, Singapore Institute of Technology]  - Location: [Singapore]"
   }
 ]
